@@ -13,6 +13,7 @@
             </trans-unit>
             <trans-unit id="test2">
                 <source>test2</source>
+                <target>Test 2</target>
             </trans-unit>
         </body>
     </file>
