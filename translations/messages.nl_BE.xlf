@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-    <file source-language="nl_BE" datatype="plaintext">
+    <file target-language="nl_BE" datatype="plaintext">
         <body>
             <trans-unit id="symfony_is_great">
                 <source>symfony_is_great</source>
@@ -9,7 +9,7 @@
                 <source>symfony_is_a_framework</source>
             </trans-unit>
             <trans-unit id="test">
-                <source>test</source>
+                <target>Test</target>
             </trans-unit>
             <trans-unit id="test2">
                 <source>test2</source>
