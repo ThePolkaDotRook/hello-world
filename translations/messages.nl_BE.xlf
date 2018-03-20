@@ -6,13 +6,13 @@
                 <source>symfony_is_great</source>
             </trans-unit>
             <trans-unit id="symfony_is_a_framework">
-                <target>symfony_is_a_framework</target>
+                <source>symfony_is_a_framework</source>
             </trans-unit>
             <trans-unit id="test">
-                <target>Test</target>
+                <source>Test</source>
             </trans-unit>
             <trans-unit id="test2">
-                <target></target>
+                <source></source>
             </trans-unit>
         </body>
     </file>
