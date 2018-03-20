@@ -10,6 +10,10 @@
                 <source>symfony_is_a_framework</source>
                 <target></target>
             </trans-unit>
+	    <trans-unit id="test">
+		<source>test</source>
+		<target></target>
+	    </trans-unit>
         </body>
     </file>
 </xliff>
