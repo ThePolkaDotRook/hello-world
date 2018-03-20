@@ -6,6 +6,10 @@
                 <source>symfony_is_great</source>
                 <target></target>
             </trans-unit>
+            <trans-unit id="symfony_is_a_framework">
+                <source></source>
+                <target></target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
