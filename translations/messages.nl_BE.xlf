@@ -9,11 +9,12 @@
                 <source>symfony_is_a_framework</source>
             </trans-unit>
             <trans-unit id="test">
+                <source>test</source>
                 <target>Test</target>
             </trans-unit>
             <trans-unit id="test2">
                 <source>test2</source>
-                <target>Test 2</target>
+                <target></target>
             </trans-unit>
         </body>
     </file>
