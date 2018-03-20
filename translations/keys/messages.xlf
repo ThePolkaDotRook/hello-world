@@ -1,9 +1,10 @@
 <?xml version="1.0"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-    <file source-language="sf_key" datatype="plaintext">
+    <file source-language="sf_key" target-language="sf_key" datatype="plaintext">
         <body>
             <trans-unit id="symfony_is_great">
                 <source>symfony_is_great</source>
+                <target>symfony_is_great</target>
             </trans-unit>
         </body>
     </file>
