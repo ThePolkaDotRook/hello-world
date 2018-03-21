@@ -4,15 +4,19 @@
         <body>
             <trans-unit id="symfony_is_great">
                 <source>symfony_is_great</source>
+                <target>symfony_is_great</target>
             </trans-unit>
             <trans-unit id="symfony_is_a_framework">
                 <source>symfony_is_a_framework</source>
+                <target>symfony_is_a_framework</target>
             </trans-unit>
             <trans-unit id="test">
                 <source>test</source>
+                <target>test</target>
             </trans-unit>
             <trans-unit id="test2">
                 <source>test2</source>
+                <target>test2</target>
             </trans-unit>
         </body>
     </file>
