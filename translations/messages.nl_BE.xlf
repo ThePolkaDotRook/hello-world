@@ -1,10 +1,10 @@
-<?xml version="1.0"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-    <file source-language="nl_BE" datatype="plaintext">
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="nl_BE" datatype="plaintext" target-language="nl_BE">
         <body>
-            <trans-unit id="symfony_is_great">
+            <trans-unit id="symfony_is_great" approved="no">
                 <source>symfony_is_great</source>
-                <target>symfony_is_great</target>
+                <target state="translated">Symfony is geweldig</target>
             </trans-unit>
             <trans-unit id="symfony_is_a_framework">
                 <source>symfony_is_a_framework</source>
